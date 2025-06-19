@@ -33,7 +33,7 @@ const Othercities = (props) => {
                 <div className="today-details">
                     <div className="today-rows col-div">
                         <div className="data-div"><i className='bx bxs-sun'></i> UV Index</div>
-                        <div className="data-div"><span className="number-data">{props?.data?.current?.uv && props?.data?.current?.uv || '0'}</span><span className="fe-stat" > uv</span></div>
+                        <div className="data-div"><span className="number-data">{props?.data?.current?.uv || '0'}</span><span className="fe-stat" > uv</span></div>
                         <div className="data-div"><span className="fe-stat">{getUVCategory(props?.data?.current?.uv && props?.data?.current?.uv)}</span></div>
                     </div>
                     <div className="today-rows col-div">
