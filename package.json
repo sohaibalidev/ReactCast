@@ -1,8 +1,8 @@
 {
-  "name": "weatherapp",
+  "name": "react-cast",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sohaibalidev.github.io/Weather-App",
+  "homepage": "https://sohaibalidev.github.io/ReactCast",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

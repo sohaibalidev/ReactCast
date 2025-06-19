@@ -1,11 +1,11 @@
-# Weather App
+# ReactCast
 
 A simple and interactive Weather App built using React.js that provides real-time weather updates based on user location and manual searches.
 
 ## Live Demo
 
-- **Live Page:** [Weather App](https://sohaibalidev.github.io/Weather-App/)
-- **Source Code:** [GitHub Repository](https://github.com/sohaibalidev/Weather-App)
+- **Live Page:** [ReactCast](https://sohaibalidev.github.io/ReactCast/)
+- **Source Code:** [GitHub Repository](https://github.com/sohaibalidev/ReactCast)
 
 ## Features
 
@@ -27,8 +27,8 @@ A simple and interactive Weather App built using React.js that provides real-tim
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/sohaibalidev/Weather-App.git
-cd Weather-App
+git clone https://github.com/sohaibalidev/ReactCast.git
+cd ReactCast
 ```
 
 ### 2. Install Dependencies
@@ -73,14 +73,14 @@ git pull origin main --rebase
 npm run build
 npm run deploy
 git add .
-git commit -m "Updated Weather App"
+git commit -m "Updated ReactCast"
 git push origin main
 ```
 
 ## Project Structure
 
 ```
-Weather-App/
+ReactCast/
 │-- public/          # Static assets
 │-- src/             # Source code
 │   │-- components/  # React components

@@ -1,13 +1,8 @@
 import { FaLocationArrow } from "react-icons/fa";
-import { useEffect, useState } from "react";
 import '../css/detailedsection.css'
 import { getWindCategory, getHumidityCategory, getPressureCategory, getUVCategory } from '../utils/weatherUtils'
 
 const Othercities = (props) => {
-
-    useEffect(() => {
-    }, [])
-
     return (<>
         <div className="details-desktop">
             <div className="today-container">
