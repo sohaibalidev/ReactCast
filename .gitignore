@@ -1,0 +1,9 @@
+# Folders
+node_modules/
+build/
+
+# Environment
+.env
+
+# Utility
+Update Command.txt
