@@ -4,7 +4,7 @@ A simple and interactive Weather App built using React.js that provides real-tim
 
 ## Live Demo
 
-- **Live Page:** [ReactCast](http://reactcast.netlify.app/))
+- **Live Page:** [ReactCast](http://reactcast.netlify.app/)
 - **Source Code:** [GitHub Repository](https://github.com/sohaibalidev/ReactCast)
 
 ## Features
